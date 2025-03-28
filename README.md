@@ -1,1 +1,1 @@
-# spectrumprisma.com
+# spectrumprisma
