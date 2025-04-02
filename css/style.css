@@ -87,7 +87,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: #ffffff;
+  color: #000000;
 }
 
 .text_center {
@@ -160,7 +160,7 @@ body {
 
 .custom_nav-container .call_btn:hover {
   background-color: transparent;
-  color: #ffffff;
+  color: #000000;
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
